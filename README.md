@@ -8,7 +8,7 @@ Over here the ".ipynb" file along with the dataset and the detailed study report
 Few point :-
 1) Dataset collected from Kaggle
 2) Our model may not achieve the best accuracy(fiddling with the various parameters may enhance it)
-3) This project was made a part of our Summer Training on "Machine Learning with Python"
+3) This project was made as a part of our Summer Training on "Machine Learning with Python"
 
 Team Members:-
 1) Anurag Ganguly
